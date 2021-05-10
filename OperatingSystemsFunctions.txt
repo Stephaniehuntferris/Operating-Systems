@@ -1,0 +1,5 @@
+Windows Server: This is developed by Microsoft, it enables people to manage applications and websites on-site adn/or on the cloud.  This is a system I use at home and I like it. You won't have trouble finding hardware or drivers, its the most operated system for games.  I am not a gamer however!
+Linux:  It provides a secure stabel multiuser enironment, this sytem is often used on web servers adn on supercomputers. This system has softare updates
+ and is an open source operating system. Linux' security is much better than the windows security.
+ Unix:  Offers multitasking with  protected memory.  It uses virtual memory efficiently, it offers access controls and good security.  It can handle high volume of transactions in a multiuser environment and often used on web servers.
+ 
